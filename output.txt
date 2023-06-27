@@ -1,0 +1,630 @@
+
+1. Bank management
+2. ATM management
+3. Exit
+
+Enter Your Choice: 1
+
+
+
+                        Bank Management
+1. New User 
+2. Existing User
+3. Deposit
+4. Withdraw
+5. Transfer
+6. Bill Payment
+7. Search User Record
+8. Edit User Record
+9. Delete User Record
+10. Show All Records
+11. All Payment Records
+12. Go To Menu
+
+Enter Your Choice: 1
+
+
+                        Add New User
+Enter User ID:21467
+
+Enter First Name :darshana
+
+Enter Last Name :chauhan
+
+Enter Pin Code (5 digits) :21467
+
+Enter Password (5 characters):21467
+
+Enter Phone Number :1234554321
+
+Enter city :rajkot
+
+Enter balance :543210
+
+New user ID has been created
+
+
+
+                        Bank Management
+1. New User
+2. Existing User
+3. Deposit
+4. Withdraw
+5. Transfer
+6. Bill Payment
+7. Search User Record
+8. Edit User Record
+9. Delete User Record
+10. Show All Records
+11. All Payment Records
+12. Go To Menu
+
+Enter Your Choice: 1
+
+
+                        Add New User
+Enter User ID:21503
+
+Enter First Name :anjali
+
+Enter Last Name :jilariya
+
+Enter Pin Code (5 digits) :21503
+
+Enter Password (5 characters):21503
+
+Enter Phone Number :6789098776
+
+Enter city :surat 
+
+Enter balance :54321000
+
+
+New user ID has been created
+
+
+                        Add New User
+Enter User ID:21510
+
+Enter First Name :meera 
+
+Enter Last Name :panchal
+
+Enter Pin Code (5 digits) :21510
+
+Enter Password (5 characters):21510
+
+Enter Phone Number :5432112345
+
+Enter city :bhavnagar
+
+Enter balance :54321  
+
+New user ID has been created
+
+
+
+                        Bank Management
+1. New User
+2. Existing User
+3. Deposit
+4. Withdraw
+5. Transfer
+6. Bill Payment
+7. Search User Record
+8. Edit User Record
+9. Delete User Record
+10. Show All Records
+11. All Payment Records
+12. Go To Menu
+
+Enter Your Choice: 1
+
+
+                        Add New User
+Enter User ID:21262
+
+Enter First Name :krisha
+
+Enter Last Name :mehta
+
+Enter Pin Code (5 digits) :21262
+
+Enter Password (5 characters):21262
+
+Enter Phone Number :5432167890
+
+Enter city :vadodara
+
+Enter balance :543216
+
+
+New user ID has been created
+
+
+
+
+                        Bank Management
+1. New User
+2. Existing User
+3. Deposit
+4. Withdraw
+5. Transfer
+6. Bill Payment
+7. Search User Record
+8. Edit User Record
+9. Delete User Record
+10. Show All Records
+11. All Payment Records
+12. Go To Menu
+
+Enter Your Choice: 1
+
+
+                        Add New User
+Enter User ID:21477
+
+Enter First Name :vinit    
+
+Enter Last Name :mehta
+
+Enter Pin Code (5 digits) :21477
+
+Enter Password (5 characters):21477
+
+Enter Phone Number :78900987654
+
+Enter city :jamnagar
+
+Enter balance :67890
+
+New user ID has been created
+
+
+
+                        Bank Management
+1. New User
+2. Existing User
+3. Deposit
+4. Withdraw
+5. Transfer
+6. Bill Payment
+7. Search User Record
+8. Edit User Record
+9. Delete User Record
+10. Show All Records
+11. All Payment Records
+12. Go To Menu
+
+Enter Your Choice: 2
+
+                        Existing User Information
+Enter User ID:21477
+
+
+User ID: 21477
+Pin Code: 21477
+Password: 21477
+
+
+                        Bank Management
+1. New User
+2. Existing User
+3. Deposit
+4. Withdraw
+5. Transfer
+6. Bill Payment
+7. Search User Record
+8. Edit User Record
+9. Delete User Record
+10. Show All Records
+11. All Payment Records
+12. Go To Menu
+
+Enter Your Choice: 2
+
+                        Existing User Information
+Enter User ID:21467
+
+
+User ID: 21467
+Pin Code: 21467
+Password: 21467
+
+
+                        Bank Management
+1. New User
+2. Existing User
+3. Deposit
+4. Withdraw
+5. Transfer
+6. Bill Payment
+7. Search User Record
+8. Edit User Record
+9. Delete User Record
+10. Show All Records
+11. All Payment Records
+12. Go To Menu
+
+Enter Your Choice: 3
+
+                        Deposit Amount
+Enter User ID:21503
+
+ Enter Amount to be deposited: 1234
+
+ Current updated balance: 124690
+
+
+                        Bank Management
+1. New User
+2. Existing User
+3. Deposit
+4. Withdraw
+5. Transfer
+6. Bill Payment
+7. Search User Record
+8. Edit User Record
+9. Delete User Record
+10. Show All Records
+11. All Payment Records
+12. Go To Menu
+
+Enter Your Choice: 4
+
+                        Withdraw Page
+Enter User ID:21467
+
+ Enter Amount to be withdrawed: 51
+
+ Current updated balance: 543159
+
+
+                        Bank Management
+1. New User
+2. Existing User
+3. Deposit
+4. Withdraw
+5. Transfer
+6. Bill Payment
+7. Search User Record
+8. Edit User Record
+9. Delete User Record
+10. Show All Records
+11. All Payment Records
+12. Go To Menu
+
+Enter Your Choice: 5
+
+                         Transfer Page
+Enter Sender User ID:21477
+
+Enter Reciever User ID:21510
+
+Enter amount to be transferred: 123
+
+ Transaction done successfully...
+
+
+                        Bank Management
+1. New User
+2. Existing User
+3. Deposit
+4. Withdraw
+5. Transfer
+6. Bill Payment
+7. Search User Record
+8. Edit User Record
+9. Delete User Record
+10. Show All Records
+11. All Payment Records
+12. Go To Menu
+
+Enter Your Choice: 6
+
+                         Bills payment option
+Enter User ID:21262
+
+
+ Bill Name: electricity
+
+
+ Bill Amount: 432
+
+
+electricity Bill paid successfully
+
+
+                        Bank Management
+1. New User
+2. Existing User
+3. Deposit
+4. Withdraw
+5. Transfer
+6. Bill Payment
+7. Search User Record
+8. Edit User Record
+9. Delete User Record
+10. Show All Records
+11. All Payment Records
+12. Go To Menu
+
+Enter Your Choice: 7
+
+                         Search User Records
+Enter User ID:21503
+
+                User ID: 21503
+                Name: anjali
+                Last Name: jilariya
+                Address: surat
+                Pin: 21503
+                Password: 21503
+                 Phone: 1234512345
+                Balance: 124690
+
+
+                        Bank Management
+1. New User
+2. Existing User
+3. Deposit
+4. Withdraw
+5. Transfer
+6. Bill Payment
+7. Search User Record
+8. Edit User Record
+9. Delete User Record
+10. Show All Records
+11. All Payment Records
+12. Go To Menu
+
+Enter Your Choice: 8
+
+                         Edit User Record
+Enter User ID:21477
+
+Enter First Name :vinyo
+
+Enter Last Name :mehta
+
+Enter Pin Code :21477
+
+Enter Password :21477
+
+Enter Phone Number :5432112345
+
+Enter city :jamanagar
+
+
+ Record edited successfully...
+
+
+                        Bank Management
+1. New User
+2. Existing User
+3. Deposit
+4. Withdraw
+5. Transfer
+6. Bill Payment
+7. Search User Record
+8. Edit User Record
+9. Delete User Record
+10. Show All Records
+11. All Payment Records
+12. Go To Menu
+
+Enter Your Choice: 9
+
+                         Delete User Record
+Enter User ID:21477
+
+
+ Record deleted successfully...
+
+
+                        Bank Management
+1. New User
+2. Existing User
+3. Deposit
+4. Withdraw
+5. Transfer
+6. Bill Payment
+7. Search User Record
+8. Edit User Record
+9. Delete User Record
+10. Show All Records
+11. All Payment Records
+12. Go To Menu
+
+Enter Your Choice: 10
+
+                        Show All User's Records
+User ID :21503
+First Name :anjali
+Last Name :jilariya
+Pin :21503
+Password :21503
+Phone Number :1234512345
+City :surat
+Balance :124690
+
+--------------------------------------------------------------------------------------
+
+User ID :21262
+First Name :krisha
+Last Name :mehta
+Pin :21262
+Password :21262
+Phone Number :6789012312
+City :vadodara
+Balance :673171
+
+--------------------------------------------------------------------------------------
+
+User ID :21467
+First Name :darshana
+Last Name :chauhan
+Pin :21467
+Password :21467
+Phone Number :1234554321
+City :rajkot
+Balance :543159
+
+--------------------------------------------------------------------------------------
+
+User ID :21510
+First Name :meera
+Last Name :panchal
+Pin :21510
+Password :21510
+Phone Number :5432112345
+City :bhavnagar
+Balance :54444
+
+--------------------------------------------------------------------------------------
+
+
+
+                        Bank Management
+1. New User
+2. Existing User
+3. Deposit
+4. Withdraw
+5. Transfer
+6. Bill Payment
+7. Search User Record
+8. Edit User Record
+9. Delete User Record
+10. Show All Records
+11. All Payment Records
+12. Go To Menu
+
+Enter Your Choice: 11
+
+                        Show All Paymet Records
+User ID :21477
+Bill Name :Elec
+Amount :1234
+Date :27
+Month :6
+Year :2023
+
+--------------------------------------------------------------------------------------
+
+User ID :21262
+Bill Name :electricity
+Amount :432
+Date :27
+Month :6
+Year :2023
+
+--------------------------------------------------------------------------------------
+
+
+
+                        Bank Management
+1. New User
+2. Existing User
+3. Deposit
+4. Withdraw
+5. Transfer
+6. Bill Payment
+7. Search User Record
+8. Edit User Record
+9. Delete User Record
+10. Show All Records
+11. All Payment Records
+12. Go To Menu
+
+Enter Your Choice: 12
+
+
+
+1. Bank management
+2. ATM management
+3. Exit
+
+Enter Your Choice: 2
+
+
+
+                        ATM Management
+1. User Login & Balance
+2. Withdraw
+3. Account Details
+4. Go To Menu
+
+Enter Your Choice: 1
+
+                        User Login and Check Balance
+
+Enter User ID:21510
+
+Enter Pin Code (5 Digits):*****
+Enter Password (5 characters):*****
+
+Your current balance is: 54444
+
+
+                        ATM Management
+1. User Login & Balance
+2. Withdraw
+3. Account Details
+4. Go To Menu
+
+Enter Your Choice: 2
+
+                        Withdraw Page
+Enter User ID:21467
+
+Enter Pin Code (5 Digits) :*****
+Enter Password (5 characters):*****
+
+ Enter Amount to be withdrawed: 123
+
+ Current balance: 543036
+
+
+                        ATM Management
+1. User Login & Balance
+2. Withdraw
+3. Account Details
+4. Go To Menu
+
+Enter Your Choice: 3
+
+                         Check Details
+
+Enter User ID:21503
+
+Enter Pin Code (5 Digits) :*****
+Enter Password (5 characters):*****
+
+User ID :21503
+First Name :anjali
+Last Name :jilariya
+Pin :21503
+Password :21503
+Phone Number :1234512345
+City :surat
+Balance :124690
+
+--------------------------------------------------------------------------------------
+
+
+
+                        ATM Management
+1. User Login & Balance
+2. Withdraw
+3. Account Details
+4. Go To Menu
+
+Enter Your Choice: 4
+
+
+
+1. Bank management
+2. ATM management
+3. Exit
+
+Enter Your Choice: 3
